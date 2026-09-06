@@ -25,6 +25,7 @@ Three visualizations were created
 
 
 Q3: DAX Calculations
+
 a)	Calculated Table named EastRegionOrders created using the DAX:
 EastRegionOrders = FILTER( SalesData,SalesData[Region] = "East")
 
