@@ -1,11 +1,16 @@
 # POWERBI-MODULE-END-EVALUATION
 REPORT
 
-Q1: Data Cleaning and Loading
+Q1: 
+
+Data Cleaning and Loading
+
 1. Data Import
+   
 The CSV dataset was imported into Power BI and opened in Power Query Editor for cleaning and transformation.
 
-2. Data Cleaning
+3. Data Cleaning
+   
 •	Replaced missing text values with "Unknown". 
 •	Converted OrderDate to Date format and handled missing dates. 
 •	Removed duplicate rows. 
@@ -17,8 +22,12 @@ The CSV dataset was imported into Power BI and opened in Power Query Editor for 
 The cleaned data was then loaded into Power BI.
 
 
-Q2: Visualizations and Insights
+Q2:
+
+Visualizations and Insights
+
 Three visualizations were created 
+
 •	Pie Chart: Order Distribution by Region 
 •	Column Chart: Top 5 Products by Number of Orders 
 •	Line Chart: Profit Trend Over Time
